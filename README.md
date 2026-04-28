@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Accounting Management System
 
 A modern, secure, and scalable accounting system built with Laravel PHP and MySQL for small-to-medium businesses.
@@ -110,3 +111,6 @@ routes/
 ## License
 
 MIT
+=======
+# php-accounting
+>>>>>>> 349994662a6ac25a804126686c6e5c3aa7d56018
